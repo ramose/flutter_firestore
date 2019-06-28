@@ -1,0 +1,491 @@
+{
+  "project_info": {
+    "project_number": "598356876658",
+    "firebase_url": "https://playground-bd801.firebaseio.com",
+    "project_id": "playground-bd801",
+    "storage_bucket": "playground-bd801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:5216b4707a283ba0",
+        "android_client_info": {
+          "package_name": "com.ferhatproduction.eyesoccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:a9dd7efbdeaace36",
+        "android_client_info": {
+          "package_name": "com.google.firebase.mlkit.codelab.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:6dc3a0bc8d65f405",
+        "android_client_info": {
+          "package_name": "com.jeemba.authbyphoneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-8rudk6s9ael763qns6pjlksim6lpdbab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeemba.authbyphoneapp",
+            "certificate_hash": "da009d812dd904f99f93deb0da872cd07723e6b9"
+          }
+        },
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:fed549b627ad74ff",
+        "android_client_info": {
+          "package_name": "com.jeemba.buangajaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:b6d2411b919f503a",
+        "android_client_info": {
+          "package_name": "com.jeemba.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:13e4ee48bf13f229",
+        "android_client_info": {
+          "package_name": "com.jeemba.flutterchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:d8d106c956581f53",
+        "android_client_info": {
+          "package_name": "com.jeemba.helloworld2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-1oa7rjpr202o98gttcec9osk1rok5flu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeemba.helloworld2",
+            "certificate_hash": "da009d812dd904f99f93deb0da872cd07723e6b9"
+          }
+        },
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:f1bc5471d4389ab3",
+        "android_client_info": {
+          "package_name": "com.jeemba.ml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:07bfacad6fee5fa2",
+        "android_client_info": {
+          "package_name": "com.jeemba.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-suli9dl8meduelsfmlg6r4i6ngqnai5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeemba.mlkit",
+            "certificate_hash": "70daa42f29b977bb30e015299b0058e5297ff6ce"
+          }
+        },
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:8841f64baf43c0f2",
+        "android_client_info": {
+          "package_name": "com.jeemba.mlkit4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-jh1bh94bk5lutmp7kujebohororlcojf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeemba.mlkit4",
+            "certificate_hash": "70daa42f29b977bb30e015299b0058e5297ff6ce"
+          }
+        },
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:92702d11baf488bd",
+        "android_client_info": {
+          "package_name": "com.jeemba.playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-2dnfm0j0n9oe0vsi2vb71j5knv90pdro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeemba.playground",
+            "certificate_hash": "70daa42f29b977bb30e015299b0058e5297ff6ce"
+          }
+        },
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598356876658:android:21eafe0015ac53e3",
+        "android_client_info": {
+          "package_name": "com.jeemba.realtimeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598356876658-4tsuv6mptdetsh2ega2a8lpetiat0a4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeemba.realtimeapp",
+            "certificate_hash": "da009d812dd904f99f93deb0da872cd07723e6b9"
+          }
+        },
+        {
+          "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3VEvG-6l2neGVE4mIPkuhIO00tAkhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598356876658-qus5jeqtke0llijsnksg14k5nvss4sng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598356876658-sp00krrl8dkqselldpqe1miu5noju8de.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jeemba.Playground"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
